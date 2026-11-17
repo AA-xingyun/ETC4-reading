@@ -1,0 +1,234 @@
+[
+  {
+    "id": "cet4-c1",
+    "title": "The hybrid office, five years on",
+    "topic": "Work",
+    "text": "When the offices reopened after the pandemic, many companies discovered that the argument about remote work had been settled in a way nobody had predicted. Few organisations returned to five days in the building, and few abandoned the office altogether. The compromise, two or three days at home and the rest at a desk, is now the most common arrangement among office employers in Europe and North America.\n\nThe compromise has costs that are easy to miss. A team that meets on Tuesdays and Thursdays gains from the overlap, but a new employee who joins on a Wednesday may spend weeks without meeting the people they are supposed to learn from. Several large employers now fix anchor days when everyone is expected in, and treat the other days as genuinely flexible.\n\nManagers report a second problem: the work that happens in the gaps. Conversations that used to happen by chance, a question at the coffee machine or a warning about a difficult client, do not happen when half the team is at home. Some companies have tried to recreate them with scheduled social time, with mixed results; forced sociability is not the same as a corridor.\n\nThe evidence on productivity is less dramatic than either side claims. Most studies find that individual tasks such as writing or coding are done at least as well at home, while tasks that depend on quick exchange suffer. The effect on careers is harder to measure and less comfortable: research suggests that people who work remotely more often are promoted less frequently, and that the gap is larger for younger employees.\n\nFor employers the calculation is now about property. A company that needs desks for sixty per cent of its staff can rent less space, and several have done exactly that. The savings are real, but they depend on the arrangement holding. A company that cuts space and then asks everyone back has a problem it cannot solve quickly.",
+    "mcq": [
+      {
+        "stem": "Which statement best summarises what happened to the debate about remote work?",
+        "choices": [
+          "Most office employers now mix days at home with days in the office.",
+          "Almost all companies went back to five days in the office.",
+          "Most companies became fully remote and gave up their offices.",
+          "Employers decided that the question was not worth discussing."
+        ],
+        "answer": 0
+      },
+      {
+        "stem": "Why do some employers fix anchor days?",
+        "choices": [
+          "To reduce the amount of office space they have to rent.",
+          "To make sure that new staff and teams meet face to face.",
+          "To measure how productive each employee is.",
+          "To avoid paying for video-conferencing software."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What does the third paragraph say is lost in a hybrid arrangement?",
+        "choices": [
+          "Formal training courses for junior staff.",
+          "Written records of decisions that were made.",
+          "Conversations that used to happen by chance.",
+          "Contact with clients in other countries."
+        ],
+        "answer": 2
+      },
+      {
+        "stem": "What do most studies find about productivity?",
+        "choices": [
+          "Working from home reduces output in every kind of task.",
+          "Productivity depends mainly on the length of the working week.",
+          "People at home work longer hours but achieve less.",
+          "Individual tasks are done as well at home, but work needing quick exchange suffers."
+        ],
+        "answer": 3
+      },
+      {
+        "stem": "What does the author suggest about companies that rent less office space?",
+        "choices": [
+          "The savings depend on the hybrid arrangement continuing.",
+          "They usually save far more than they expected.",
+          "They find it easy to bring everyone back later.",
+          "They are more productive than other companies."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "cet4-c2",
+    "title": "When services move online",
+    "topic": "Society",
+    "text": "Banks, councils and transport operators have spent fifteen years moving services online, and most of them have closed the counters that used to do the same work. For many older people the change has not been a matter of choice. A survey of people over seventy found that a majority used the internet, but that a large minority did so only with help, and that confidence, rather than ability, was what limited them.\n\nFamily members fill much of the gap. Adult children set up accounts, reset passwords and, in effect, become a private support desk. The arrangement works until it does not: a son may live in another city, and a parent may not want to admit that a form has defeated them. Researchers describe a group who simply stop using a service rather than ask for help again.\n\nDesign makes a difference. Some systems log people out after a few minutes of inactivity, which punishes anyone who reads slowly or goes to look for a document. Forms that demand a password with a capital letter, a number and a symbol are harder for people whose memory for arbitrary strings has never been trained.\n\nVolunteer schemes, often based in libraries, try to supply what families cannot. In one programme, trained helpers sit with visitors for an hour and go through the actual task, such as booking an appointment or checking a bill, rather than teaching a general course. Organisers say the specific task matters: people remember what they have done once for a real purpose.\n\nNot everyone thinks digital skills are the answer. Age charities argue that a service paid for by everyone should remain usable by everyone, and some councils have kept a telephone line open after finding that the people who used it were also the people least likely to complain. The argument is not about whether online services are convenient. It is about what happens to those who cannot use them.",
+    "mcq": [
+      {
+        "stem": "What does the survey of people over seventy suggest?",
+        "choices": [
+          "Most of them have never used the internet.",
+          "Confidence, not ability, holds many of them back.",
+          "They prefer online services to counters.",
+          "They ask councils for help more often than younger people do."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What does the passage say about help from family members?",
+        "choices": [
+          "It is the only kind of help that works.",
+          "It usually costs money.",
+          "It can fail when relatives live far away or people are unwilling to ask.",
+          "It is discouraged by libraries."
+        ],
+        "answer": 2
+      },
+      {
+        "stem": "Which design problem is mentioned?",
+        "choices": [
+          "Pages that load too slowly to be usable.",
+          "Systems that log users out after a short period of inactivity.",
+          "Forms that are printed in very small type.",
+          "Websites that cannot be used on mobile phones."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What do the organisers of volunteer schemes say is important?",
+        "choices": [
+          "Teaching a general course about computers.",
+          "Giving visitors written instructions to take home.",
+          "Helping with a real task that the visitor needs to complete.",
+          "Providing free equipment to everyone who comes."
+        ],
+        "answer": 2
+      },
+      {
+        "stem": "What is the argument of the age charities?",
+        "choices": [
+          "Online services are more convenient for everybody.",
+          "A service funded by everyone should stay usable by everyone.",
+          "Older people should be taught digital skills before anything else.",
+          "Councils should close their telephone lines."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "cet4-c3",
+    "title": "Chatbots and the writing class",
+    "topic": "Education",
+    "text": "Within a year of chatbots becoming widely available, teachers of English began noticing a new kind of essay: fluent, well organised, and slightly empty. The sentences were correct, the paragraphs were the right length, and the argument went nowhere in particular. Students who had produced such work in twenty minutes were not learning to write. They were learning to ask.\n\nThe obvious response, detecting machine-written text, has not worked well. Tools that claim to identify it produce false accusations as well as missed cases, and several universities have stopped using them after complaints. A student whose own writing is plain and correct can be flagged simply because plain and correct writing looks like a machine.\n\nThe more useful question is what the tools are good for. Studies of feedback suggest that a chatbot can point out a missing article or a clumsy sentence as reliably as a tired teacher, and can do it at eleven at night. What it does less well is judge whether an argument is worth making, or whether the evidence supports the claim. Those judgements depend on knowing the reader and the subject.\n\nSome teachers have responded by changing what they ask for. If the essay is written in class, or planned in a five-minute conversation before drafting, the tool can be used for feedback rather than production. A few have gone further and asked students to hand in the conversation they had with the chatbot, on the grounds that knowing how to question it is now a skill in itself.\n\nThe risk that remains is the quiet loss of practice. Writing badly is how people learn to write well, and a tool that removes the bad first draft also removes the lesson inside it. The teachers who seem least worried are those who kept the drafting and gave up only the polishing.",
+    "mcq": [
+      {
+        "stem": "What did teachers notice about essays written with chatbots?",
+        "choices": [
+          "They contained many grammar mistakes.",
+          "They were fluent and organised but had little real content.",
+          "They were much shorter than usual essays.",
+          "They were easy to recognise as machine-written."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "Why have some universities stopped using detection tools?",
+        "choices": [
+          "The tools were too expensive to run.",
+          "The tools wrongly flagged correct student writing.",
+          "Students refused to hand in any work.",
+          "The tools made marking much slower."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "According to studies of feedback, what can a chatbot do well?",
+        "choices": [
+          "Judge whether an argument is worth making.",
+          "Decide whether the evidence supports a claim.",
+          "Point out grammar and phrasing problems reliably.",
+          "Understand what a particular reader expects."
+        ],
+        "answer": 2
+      },
+      {
+        "stem": "What have some teachers asked students to hand in?",
+        "choices": [
+          "A recording of a class presentation.",
+          "The conversation they had with the chatbot.",
+          "A handwritten copy of the finished essay.",
+          "A list of all the sources they used."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What is the author's main worry?",
+        "choices": [
+          "Students will stop practising the act of writing.",
+          "Chatbots will become more expensive to use.",
+          "Teachers will stop marking essays altogether.",
+          "Student essays will become too long."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "cet4-c4",
+    "title": "The limits of plastic recycling",
+    "topic": "Environment",
+    "text": "Recycling has become the answer that everyone gives when asked about plastic, and the numbers do not support it. Of all the plastic ever made, only a small fraction has been recycled, and in most wealthy countries the rate has been stuck for a decade. The reasons are practical rather than moral: plastic is cheap, it comes in dozens of types, and a bottle made of one type is worthless if it is mixed with another.\n\nSorting is where most of the money goes. A facility that handles mixed household waste must separate bottles, films, tubs and caps, remove anything that will jam the machinery, and sell what is left to a buyer who will accept it. When the price of oil falls, new plastic becomes cheaper than recycled plastic, and the whole chain loses its reason to exist.\n\nFor years, rich countries exported the difficult part. When China stopped accepting most foreign waste in 2018, the trade moved to Southeast Asia for a while and then largely stopped being a solution. The waste did not disappear. It was simply handled, badly, somewhere with fewer rules, and countries that had relied on exports discovered how little domestic capacity they had.\n\nChemical recycling is often presented as the way out. The processes can turn mixed plastic back into oil or gas, but they use a great deal of energy, and the plants that exist operate at a small scale. Whether they can be expanded without subsidy is still an open question, and environmental groups argue that the promise has been used to delay limits on production.\n\nThe most reliable gains have come from simpler changes. Deposit schemes, where a small sum is returned when a container comes back, produce clean streams of one material. Designing packaging from a single type of plastic makes it worth sorting. Neither approach needs a new technology. Both need someone to decide that the waste is worth money. As one engineer put it, we do not have a recycling problem so much as a design problem.",
+    "mcq": [
+      {
+        "stem": "Why is most plastic not recycled, according to the passage?",
+        "choices": [
+          "People refuse to sort their household rubbish.",
+          "Plastic is cheap, comes in many types, and mixed batches have little value.",
+          "Recycling plants are illegal in many countries.",
+          "There is no demand for recycled plastic anywhere."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What happened after China stopped accepting foreign waste in 2018?",
+        "choices": [
+          "Rich countries quickly built enough recycling plants.",
+          "The waste trade moved to Southeast Asia and then largely stopped.",
+          "Plastic production fell sharply around the world.",
+          "Recycling rates in wealthy countries doubled."
+        ],
+        "answer": 1
+      },
+      {
+        "stem": "What does the passage say about chemical recycling?",
+        "choices": [
+          "It is cheap and already widely used.",
+          "It produces no waste of any kind.",
+          "It uses a lot of energy and operates at a small scale.",
+          "It has replaced deposit schemes in most countries."
+        ],
+        "answer": 2
+      },
+      {
+        "stem": "Which measures does the author call most reliable?",
+        "choices": [
+          "Deposit schemes and packaging made from a single material.",
+          "Exporting waste to countries with fewer rules.",
+          "Subsidies for chemical recycling plants.",
+          "Bans on all plastic packaging."
+        ],
+        "answer": 0
+      },
+      {
+        "stem": "What does the engineer's remark suggest?",
+        "choices": [
+          "Recycling technology is the main problem.",
+          "Consumers alone are responsible for the waste.",
+          "Packaging should be redesigned so that it is worth recycling.",
+          "Plastic should not be used for anything."
+        ],
+        "answer": 2
+      }
+    ]
+  }
+]

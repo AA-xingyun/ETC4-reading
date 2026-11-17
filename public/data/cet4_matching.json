@@ -1,0 +1,118 @@
+[
+  {
+    "id": "cet4-b1",
+    "title": "Why cities are planting tiny forests",
+    "topic": "Environment",
+    "paragraphs": [
+      "In the 1970s the Japanese botanist Akira Miyawaki began planting small patches of native trees on land that had been stripped of its original vegetation. His idea was simple: instead of a single species in neat rows, put many native species close together and let them compete. The method now carries his name and is being copied by cities from Tokyo to Amsterdam.",
+      "A Miyawaki forest is planted far more densely than a conventional one. Volunteers push three to five young trees into every square metre, often using thirty species or more. Because the saplings are so close, they race upwards for light. That competition, rather than careful pruning, is what produces the speed that supporters like to talk about.",
+      "The claimed growth rate is striking. Supporters say a plot of this kind can reach the height of a conventional plantation in a tenth of the time, and can be thirty times denser. A wood that would take a century to mature may look like a forest within twenty years. Independent measurements are fewer, but the direction of the results is consistent.",
+      "The cooling effect is one reason city governments are interested. A dense canopy shades pavement and releases water vapour, and studies in European cities have recorded air temperature near such plots falling by two or three degrees on hot afternoons. In neighbourhoods with little shade, that difference can be felt.",
+      "Heavy rain is the second reason. The deep, crowded root systems break up compacted ground, so water soaks in instead of running off. Planners in flood-prone districts see the plots as a cheap form of drainage that also happens to look pleasant, though no one claims they can replace a proper sewer system.",
+      "Wildlife returns faster than many expected. Surveys of plots in the Netherlands recorded hundreds of insect species within a few years, followed by birds that feed on them. Because the species are native, local insects can use the leaves, which is rarely true of imported ornamental trees.",
+      "Cost is modest. The saplings are small and cheap, planting is done by volunteers in a weekend, and after the first two or three summers the plot needs almost no watering. Maintenance is mostly removing litter and, occasionally, thinning out trees that are being crowded out.",
+      "Not everyone is convinced. Critics point out that a hectare of young trees stores far less carbon than a hectare of old woodland, and that the enthusiasm for quick results can draw attention away from protecting existing forests. A tiny wood, they argue, is a good addition but a poor substitute.",
+      "Schools have become unexpected adopters. Playgrounds in Belgium and France have been dug up and replanted, and teachers use the plots for science lessons. Children who planted saplings in one year can measure them in the next, which makes the idea of slow environmental change easier to grasp.",
+      "The main risk is failure. Where soil has been compacted by years of building work, or where nobody waters in the first summer, saplings die and the project quietly disappears. Researchers therefore argue for long-term monitoring, since a plot that looks impressive in photographs after two years may be half dead by the fifth."
+    ],
+    "info": [
+      { "s": "A method that copies the structure of a natural wood rather than the order of a plantation.", "p": 0 },
+      { "s": "A figure for how much cooler the air becomes beside these plots.", "p": 3 },
+      { "s": "A reason connected with rain and drains.", "p": 4 },
+      { "s": "An account of how closely together the trees are planted.", "p": 1 },
+      { "s": "A comparison between young plots and mature woodland in terms of stored carbon.", "p": 7 },
+      { "s": "Evidence that insects and birds move in quickly.", "p": 5 },
+      { "s": "An explanation of why some projects die.", "p": 9 },
+      { "s": "A description of how little looking after the plot needs once it is established.", "p": 6 },
+      { "s": "The claim about how quickly the trees grow compared with ordinary planting.", "p": 2 },
+      { "s": "An example of the plots being used for teaching.", "p": 8 }
+    ]
+  },
+  {
+    "id": "cet4-b2",
+    "title": "The quiet spread of repair cafes",
+    "topic": "Society",
+    "paragraphs": [
+      "The first Repair Cafe opened in Amsterdam in 2009. Its founder, Martine Postma, was frustrated that household objects were thrown away for faults that a skilled pair of hands could fix in twenty minutes. She put a few tables in a community hall, invited volunteers with tools, and told local people to bring their broken things.",
+      "The format has barely changed. On a Saturday morning, visitors arrive with a lamp, a toaster, a coat or a bicycle. Volunteers sit with them, open the object, and try to find what has failed. There is no charge, though most cafes put out a box for donations to cover the hall and the coffee.",
+      "What gets fixed is broader than outsiders expect. Electrical goods and clothing are the most common, followed by bicycles and small furniture. Organisers in the Netherlands report that roughly two out of three items brought in are repaired on the spot; the rest are either beyond help or need a part that has to be ordered.",
+      "Money is deliberately kept small. Most cafes survive on donations and occasional grants from local government, and none of the volunteers is paid. Organisers say the absence of a price is part of the appeal: a visitor is not a customer, and a volunteer is not a shopkeeper, so there is no pressure to sell a replacement.",
+      "A less obvious benefit is that skills move between generations. Retired electricians and tailors work alongside teenagers who have never held a soldering iron. Visitors often stay to watch, and some come back as helpers. Several cafes now run short evening classes for people who want to learn the basics themselves.",
+      "The environmental case rests on how much is thrown away. Electronic waste is one of the fastest-growing waste streams, and each person in Europe generates roughly five kilograms of it a year. Extending the life of a kettle or a laptop by a few years avoids both the waste and the mining needed to make a new one.",
+      "Repair is not always easy, and the obstacles are often built in. Devices are glued shut, batteries cannot be replaced, and screws are shaped so that ordinary tools will not turn them. Campaigns for right-to-repair laws have used the cafes as evidence that manufacturers are making a simple job impossible.",
+      "There is a social side that organisers value as much as the repairs. Regular visitors come whether or not they have anything broken, because the hall is warm and there is someone to talk to. In neighbourhoods where few public spaces remain, a monthly cafe can be one of the few places where strangers of different ages meet.",
+      "Safety rules limit what can be attempted. Volunteers are trained not to open microwave ovens, and anything with a swollen battery is refused. Some faults need a part costing more than the object is worth, and organisers say saying no is part of the job.",
+      "From one hall in Amsterdam the idea has spread to thousands of locations worldwide, linked by a small foundation that publishes a starter guide. Most new cafes begin the same way: a few volunteers, a borrowed room, and a table of broken things."
+    ],
+    "info": [
+      { "s": "A description of the kinds of objects people bring.", "p": 2 },
+      { "s": "The reason the first cafe was started.", "p": 0 },
+      { "s": "How the organisers keep costs down.", "p": 3 },
+      { "s": "A limit on what volunteers will agree to open.", "p": 8 },
+      { "s": "Figures for how much electronic waste is produced.", "p": 5 },
+      { "s": "An account of skills being passed between age groups.", "p": 4 },
+      { "s": "A design feature of products that makes repair difficult.", "p": 6 },
+      { "s": "The way the first cafe has been copied around the world.", "p": 9 },
+      { "s": "The social contact that the cafes provide.", "p": 7 },
+      { "s": "The basic routine of a cafe session.", "p": 1 }
+    ]
+  },
+  {
+    "id": "cet4-b3",
+    "title": "What sleep does for a teenage brain",
+    "topic": "Health",
+    "paragraphs": [
+      "Teenagers need more sleep than adults, eight to ten hours a night, yet their body clocks shift later at puberty. The hormone that signals darkness is released about two hours later than in childhood, so a fifteen-year-old told to go to bed at ten may genuinely not feel sleepy until midnight.",
+      "What happens during that sleep matters for learning. In deep sleep the brain replays patterns of activity from the day, and the connections between cells that carry new information are strengthened. Cut the night short and the material is still there, but it is harder to retrieve the next morning.",
+      "The finding has been tested directly. In one often-cited experiment, students who learned a list of words and slept before being tested remembered more than a matched group who stayed awake for the same number of hours. The sleep group had no extra study time; the advantage came from the sleeping brain.",
+      "Emotion is affected too. Sleep-deprived teenagers react more strongly to pictures of faces showing fear or anger, and the part of the brain that puts the brakes on those reactions is less active. Teachers describe the same pattern in class: small frustrations produce large responses.",
+      "School start times have become the practical test. Districts that moved the first bell from seven-thirty to eight-thirty reported better attendance and a modest rise in grades, with the largest gains among students who had previously been late most often. Not every study finds an effect of the same size, but few find harm.",
+      "Screens are usually blamed, and light does delay the body clock, but researchers argue the bigger problem is arousal. A message or a video is designed to be interesting, and stopping is harder than starting. The advice to switch off an hour before bed works less because of the light than because it removes the reason to stay awake.",
+      "Caffeine deserves its own mention. Its effect lasts about six hours, so a cola at eight in the evening still has half of its strength at two in the morning. Energy drinks, which combine caffeine with sugar, are popular with exactly the age group that needs sleep most.",
+      "Naps can help if they are short. Twenty minutes in the early afternoon restores alertness without leaving a teenager unable to sleep at night. Longer naps, or naps after five o'clock, tend to make the following night worse rather than better.",
+      "The debt does not cancel out. Sleeping late at the weekend partly repays it, but the body clock shifts further, so Monday morning is harder than before. The pattern is common enough that researchers have a name for it: social jet lag.",
+      "What helps is unglamorous: a consistent schedule, a dark room, and a parent who treats bedtime as a household rule rather than a personal choice. Schools can shift the bell, but the hour before sleep is decided at home."
+    ],
+    "info": [
+      { "s": "A change in the timing of a hormone during the teenage years.", "p": 0 },
+      { "s": "An experiment comparing memory after sleep and after staying awake.", "p": 2 },
+      { "s": "A finding about how tired teenagers respond to emotional pictures.", "p": 3 },
+      { "s": "Results from schools that began their day later.", "p": 4 },
+      { "s": "An explanation of why screens keep teenagers awake that is not about light.", "p": 5 },
+      { "s": "How long the effect of a caffeine drink lasts.", "p": 6 },
+      { "s": "Advice about the length and timing of naps.", "p": 7 },
+      { "s": "The name given to the pattern of catching up at weekends.", "p": 8 },
+      { "s": "What families can do about the hour before sleep.", "p": 9 },
+      { "s": "What the sleeping brain does with material learned that day.", "p": 1 }
+    ]
+  },
+  {
+    "id": "cet4-b4",
+    "title": "The trouble with food date labels",
+    "topic": "Food",
+    "paragraphs": [
+      "Two labels cause most of the confusion. Use by is a safety date: after it, food may make you ill. Best before is about quality: the food is still safe, though it may be less crisp or less flavoursome. The difference is printed on every packet, and most shoppers do not know it.",
+      "The result is waste on a large scale. British households throw away several million tonnes of food a year, and surveys suggest that a substantial share of it is still edible and was discarded because of a date rather than a smell or a taste.",
+      "Sell by is a third label, and it is not meant for shoppers at all. It tells the shop when to take stock off the shelf, allowing time for the food to be eaten at home. Seeing it on a carton and treating it as a deadline is a common mistake.",
+      "The labels are younger than most people assume. They became common in the 1970s, when supermarkets adopted them to manage stock and to answer customers who wanted to know how fresh a product was. Standardised wording followed later.",
+      "For milk, the nose is a better guide than the date, according to several food scientists. Sourness appears well before the date on a properly refrigerated carton, and a sniff test is what many dairy technologists do at home. The advice does not extend to meat or to ready-to-eat foods, where bacteria can be present without a change in smell.",
+      "Rules differ between countries. In the European Union, use by is required for foods that spoil quickly, while in much of the United States only infant formula carries a federal date requirement; other dates are set by manufacturers. A product can therefore carry different dates in two countries without any difference in the food.",
+      "Redistribution schemes try to move surplus food to people who need it, but the law gets in the way. Retailers worry about liability if something they gave away makes someone ill, and some countries have only recently clarified that donating food in good faith does not transfer that risk.",
+      "Manufacturers have an incentive to be cautious. A date that is too generous risks complaints; a date that is too conservative costs the manufacturer nothing, because the loss falls on the household that throws the food away. Critics call this a quiet transfer of waste.",
+      "Simply removing dates is not a solution. A trial in which one supermarket removed best before labels from some fresh produce found that sales fell and waste rose, because shoppers lost confidence and bought less. The label is doing some work, even when it is misleading.",
+      "The practical advice from campaigns is to treat best before as a suggestion, keep the fridge cold, and use sight and smell alongside the print. For use by, the advice is the opposite: the date is the rule, and food past it should not be eaten."
+    ],
+    "info": [
+      { "s": "A label intended for shops rather than customers.", "p": 2 },
+      { "s": "How the rules differ between the European Union and the United States.", "p": 5 },
+      { "s": "When date labels first became common.", "p": 3 },
+      { "s": "A test that works for milk but not for meat.", "p": 4 },
+      { "s": "How much edible food is thrown away because of a date.", "p": 1 },
+      { "s": "The difference between the two labels shoppers see most.", "p": 0 },
+      { "s": "The result of a trial in which dates were removed.", "p": 8 },
+      { "s": "A legal worry that slows the donation of surplus food.", "p": 6 },
+      { "s": "The reason a manufacturer prefers a cautious date.", "p": 7 },
+      { "s": "What shoppers are advised to do with each kind of label.", "p": 9 }
+    ]
+  }
+]

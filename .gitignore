@@ -1,0 +1,18 @@
+# 依赖与构建产物
+node_modules/
+dist/
+dist-server/
+build-launcher/
+dist-launcher/
+runtime/
+*.spec
+
+# 本机数据：Provider Key、缓存、队列、浏览器 profile（不要提交）
+/data/
+.env
+.env.*
+!.env.example
+*.log
+
+# 打包产物（发 Release，不放仓库）
+*.exe
